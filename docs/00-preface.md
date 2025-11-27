@@ -1,6 +1,6 @@
 # Preface: Welcome
 
-Welcome to this book. Instead of just reading, you’ll actually **build**, **test**, and **experiment** with every chapter.  
+Welcome to this bookooo. Instead of just reading, you’ll actually **build**, **test**, and **experiment** with every chapter.  
 Think of this guide as a playground where you learn by doing, not by memorizing.
 
 A built-in RAG chatbot is part of this book.  
