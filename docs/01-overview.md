@@ -6,7 +6,7 @@ You’ll learn:
 - What the topic means
 - Why anyone should care
 - Real world places where it's used
-- One simple analogy to make it click fast yeahh
+- One simple analogy to make it click fast yeahhhooo
 
 ---
 
